@@ -1,0 +1,30 @@
+body
+{
+    font-family: sans-serif;
+    color:green
+    background-color: rgb(219, 11, 28);
+    background-image: url('platinum-record-12.jpg')
+}
+.profile-card
+{
+    width: 350px;
+    margin: auto;
+    display: inline-block;
+    border-spacing: 20px;
+    background: black;
+    box-shadow: 0 4px 10px 0 rgb(239, 239, 245);
+
+}
+.image-container
+{
+    position: relative;
+}
+.info
+{
+    color: #f7f3f3;
+    margin-right: 20px;
+}
+.main-container
+{
+    padding: 10px;
+}
